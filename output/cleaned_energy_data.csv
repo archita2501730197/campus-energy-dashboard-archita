@@ -1,0 +1,7 @@
+timestamp,energy,building
+2025-12-01 00:00:00,120,buildingA
+2025-12-01 01:00:00,130,buildingA
+2025-12-01 02:00:00,140,buildingA
+2025-12-01 00:00:00,200,buildingB
+2025-12-01 01:00:00,210,buildingB
+2025-12-01 02:00:00,195,buildingB

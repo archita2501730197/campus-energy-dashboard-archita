@@ -1,0 +1,5 @@
+Campus Energy Dashboard Summary Report
+
+Total Energy Used: 995 kWh
+Top Consuming Building: buildingB
+Peak Usage Time: 2025-12-01 01:00:00

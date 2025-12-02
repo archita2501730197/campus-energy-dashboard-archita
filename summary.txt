@@ -1,0 +1,18 @@
+Campus Energy Dashboard Summary Report
+
+Total Energy Used on Campus: 1430 kWh
+Highest Consuming Building: buildingB
+Peak Usage Time: 2025-12-01 14:00
+
+Daily Trends:
+- Energy usage is higher during daytime.
+- Lowest consumption occurs at night.
+
+Weekly Trends:
+- BuildingB consistently uses more energy than others.
+- BuildingA and BuildingC have lower weekly totals.
+
+Insights:
+- BuildingB may need energy saving measures.
+- Peak times indicate when to reduce electricity usage.
+- This report helps campus management plan better and save energy.
